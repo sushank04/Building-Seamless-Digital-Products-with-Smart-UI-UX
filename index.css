@@ -1432,6 +1432,7 @@ li::marker {
   }
   .grid-Smart-UI-UX {
     grid-template-columns: 1fr;
+    padding-bottom: 48px;
   }
   .industry-fusion-Smart-UI-UX h3 {
     font-size: 18px;
@@ -1550,6 +1551,9 @@ li::marker {
 @media (max-width: 531px) {
   .line-heading-fusion-sales-force-Smart-UI-UX p {
     font-size: 26px;
+  }
+  .container-1-Smart-UI-UX {
+    width: 92%;
   }
 
   .home-container-fusion-sales-force-Smart-UI-UX
@@ -1671,7 +1675,7 @@ li::marker {
     height: 97px;
   }
   .container-1-Smart-UI-UX {
-    padding: 28px 0px 26px 24px;
+    width: 82%;
   }
   .subtitle-Smart-UI-UX {
     width: 81%;
@@ -1754,6 +1758,11 @@ li::marker {
 @media (max-width: 723px) {
   .case-study-1-Smart-UI-UX {
     height: 1694px;
+  }
+}
+@media (max-width: 630px) {
+  .container-1-Smart-UI-UX {
+    width: 84%;
   }
 }
 
