@@ -155,7 +155,7 @@ body {
 
 .hero-fusion-sales-force-Smart-UI-UX {
   width: 100%;
-  background: rgb(246, 246, 246);
+  background: rgb(253, 247, 247);
   background: linear-gradient(
     0deg,
     rgba(246, 246, 246, 1) 66%,
@@ -223,6 +223,9 @@ body {
   padding: 47px;
   margin-bottom: 2%;
   margin-left: 12%;
+}
+.why-abacasys-sales-force-Smart-UI-UX p {
+  margin-left: 10px;
 }
 
 .why-abacasys-sales-force-Smart-UI-UX h2 {
@@ -1438,9 +1441,13 @@ li::marker {
     font-size: 14px;
     padding-left: 15px;
   }
-  .oracle-bg-design-fusion-sales-force-Smart-UI-UX {
-    background-image: none;
+  .industries-fusion-Smart-UI-UX .line-fusion-Smart-UI-UX {
+    display: none;
   }
+
+  /* .oracle-bg-design-fusion-sales-force-Smart-UI-UX {
+    background-image: none;
+  } */
 
   h2 {
     font-size: 20px;
@@ -1575,6 +1582,10 @@ li::marker {
   .case-study-1-Smart-UI-UX {
     height: 1700px;
   }
+  .fusion-services-container-fusion-sales-force-Smart-UI-UX h3 {
+    position: relative;
+    left: 71px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -1654,6 +1665,16 @@ li::marker {
   }
   .case-study-1-Smart-UI-UX {
     height: 1599px;
+  }
+  .center-container-Smart-UI-UX {
+    margin-top: 0%;
+    height: 97px;
+  }
+  .container-1-Smart-UI-UX {
+    padding: 28px 0px 26px 24px;
+  }
+  .subtitle-Smart-UI-UX {
+    width: 81%;
   }
 }
 
