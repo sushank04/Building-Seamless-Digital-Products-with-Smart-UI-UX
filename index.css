@@ -960,6 +960,7 @@ li::marker {
   font-size: 35px;
   margin-bottom: 10px;
   font-weight: 400;
+  text-align: center;
 }
 
 .industries-p-fusion-Smart-UI-UX {
@@ -1601,6 +1602,7 @@ li::marker {
   .industries-fusion-sales-force-Smart-UI-UX h2 {
     font-size: 20px;
     text-align: center;
+    margin-top: 14%;
   }
   .business-growth-text-fusion-Smart-UI-UX h1 {
     font-size: 24px;
@@ -1673,6 +1675,7 @@ li::marker {
   .center-container-Smart-UI-UX {
     margin-top: 0%;
     height: 97px;
+    padding-bottom: 4%;
   }
   .container-1-Smart-UI-UX {
     width: 82%;
